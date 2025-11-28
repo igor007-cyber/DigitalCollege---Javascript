@@ -1,2 +1,2 @@
-# DigitalCollege---Javascript
+# DigitalCollege Javascript
 Aula de logica de programação
